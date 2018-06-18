@@ -1,2 +1,2 @@
-# Vehicle-Control
-Vehicle Dynamics based Control
+# Vehicle_Modelling
+Vehicle Dynamics and Kinematics
