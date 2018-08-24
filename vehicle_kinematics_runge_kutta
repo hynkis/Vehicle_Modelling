@@ -9,7 +9,7 @@ Python Vehicle Kinematics
 
 x' = v * sin(yaw)
 y' = v * cos(yaw)
-yaw' = a / v
+yaw' = v / L * tan(steer)
 v' = a
 
 Using Runge Kutta 4th order method
@@ -36,7 +36,7 @@ Vehicle Kinematics Differential Equations
 
     x' = v * sin(yaw)
     y' = v * cos(yaw)
-    yaw' = a / v
+    yaw' = v / L * tan(steer)
     v' = a
 
 """
