@@ -1,2 +1,3 @@
 # Vehicle_Modelling
-Vehicle Dynamics and Kinematics
+Vehicle Kinematics Using Runge Kutta 4th order Method.
+Scenario: Manual Double Lane Change
